@@ -16,6 +16,5 @@ h2{
 img{
   display: flex;
   justify-content: center;
-  height: 100px;
-  width: 40px;
+  border-radius: 50%;
 }
