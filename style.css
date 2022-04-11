@@ -13,3 +13,9 @@ h2{
   justify-content: center;
   font-size: 45px;
 }
+img{
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  width: 40px;
+}
